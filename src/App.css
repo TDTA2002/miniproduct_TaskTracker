@@ -1,0 +1,16 @@
+.task {
+  display: flex;
+  justify-content: space-between;
+  background-color: #f0f0ed;
+  margin-bottom: 15px;
+  padding: 10px;
+
+  .delete-button {
+      border: none;
+      color: #f90000;
+      font-weight: bold;
+      padding: 10px;
+      cursor: pointer;
+      font-size: 15px;
+  }
+}
